@@ -91,7 +91,11 @@ docker compose up -d
 docker-compose logs -f
 ```
 
-**Примечание**: Успешный запуск подтверждается появлением логов от воркеров в течение 30 минут.
+
+## 5. Успешный лог:
+- `запуска  ![image](https://github.com/user-attachments/assets/77fbd7bc-4121-4394-a69a-2b358f289583)`
+- `создание транзакций ![image](https://github.com/user-attachments/assets/b9ceb044-f643-431d-b500-24fd4d5a09cd)`
+- `базовая ошибка ![image](https://github.com/user-attachments/assets/e2784ac1-2cc3-4670-b40f-1bd0318f0503)`
 
 ## Поддержка
 
