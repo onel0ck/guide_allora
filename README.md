@@ -33,9 +33,8 @@ sudo usermod -aG docker ${USER}
 
 ## 2. Установка проекта
 
-1. Скачайте и распакуйте архив `.rar` на свой компьютер
-2. Загрузите распакованную папку на сервер
-3. Перейдите в папку проекта:
+1. Клонируем repo: git clone https://github.com/onel0ck/allora-base-topic 
+2. Перейдите в папку проекта:
    ```bash
    cd allora-base-topic
    ```
